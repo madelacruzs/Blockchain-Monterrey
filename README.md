@@ -1,6 +1,19 @@
 # Blockchain-Monterrey
 Comunidad enfocada al desarrollo de aplicaciones descentralizadas sobre Blockchain.
 
+## Instalación de IDE
+
+Instalar visual studio code o Sublime Text.
+
+**Visual Studio Code**
+1. Instalar visual studio code https://code.visualstudio.com/
+2. Instalar Visual Studio extensions. Go into the extensions section, then install these plugins:
+
+  * Solidity
+  * Material Icon Theme 
+
+Referencia: [CONFIGURING VISUAL STUDIO CODE FOR ETHEREUM BLOCKCHAIN DEVELOPMENT](https://truffleframework.com/tutorials/configuring-visual-studio-code)
+
 
 ## Installación de herramientas
 
