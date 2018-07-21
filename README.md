@@ -21,7 +21,7 @@ npm install -g ethereumjs-testrpc
   ```
   npm install -g ganache-cli
   ```
-  * **testrpc ahora es ganache cli**
+  * **Nota** TestRPC ahora es Ganache Cli
   
   El flag `-g` es para la instalación global del paquete
 
