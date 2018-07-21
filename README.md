@@ -17,13 +17,13 @@ Por lo general, la forma de instalarlo es la siguiente:
 ```
 npm install -g ethereumjs-testrpc
 ```
-  a) Actualización: Instalar  [Ganache CLI](https://github.com/trufflesuite/ganache-cli) 
+  Actualización: Instalar  [Ganache CLI](https://github.com/trufflesuite/ganache-cli) 
   ```
   npm install -g ganache-cli
   ```
-  **TESTRPC ahora es GANACHE CLI**
+  * **testrpc ahora es ganache cli**
   
-El flag `-g` es para la instalación global del paquete
+  El flag `-g` es para la instalación global del paquete
 
 3) Instalar [truffle](https://truffleframework.com/docs/getting_started/installation). Sólo debería bastar con el siguiente comando:
 ```
