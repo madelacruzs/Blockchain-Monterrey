@@ -4,7 +4,8 @@ Comunidad enfocada al desarrollo de aplicaciones descentralizadas sobre Blockcha
 
 ## Installación de herramientas
 
-Las herramientas, librerías y framweworks que se usarán en la hackatón son los siguientes: `nodejs`, `testrpc` y `truffle`
+Las herramientas, librerías y framweworks que se usarán en el taller son los siguientes: `nodejs`, `testrpc` y `truffle`
+
 
 ## Getting started
 
@@ -16,9 +17,15 @@ Por lo general, la forma de instalarlo es la siguiente:
 ```
 npm install -g ethereumjs-testrpc
 ```
+  a) Actualización: Instalar  [Ganache CLI](https://github.com/trufflesuite/ganache-cli) 
+  ```
+  npm install -g ganache-cli
+  ```
+  **TESTRPC ahora es GANACHE CLI**
+  
 El flag `-g` es para la instalación global del paquete
 
-3) Instalar [truffle](https://truffle.readthedocs.io/en/latest/getting_started/installation/). Sólo debería bastar con el siguiente comando:
+3) Instalar [truffle](https://truffleframework.com/docs/getting_started/installation). Sólo debería bastar con el siguiente comando:
 ```
 npm install -g truffle
 ```
